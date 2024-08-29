@@ -1,1 +1,2 @@
-print("hello workd CPSC")
+print("hello world CPSC")
+print("im a little fat girl")
